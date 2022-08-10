@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c43ba77-a861-43e3-9414-b3ba31c9ed18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/ArrayListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/DerivedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/FindVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/HashMapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/HashSetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/HashTablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/Isogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/LinkedHashSetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/LinkedListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/PracticeJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/QueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/RecursiveFib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/SecondInterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicejava/ThirdClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/BDDAutomation/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/BDDAutomation/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/myStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/myStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/BDDAutomation/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/BDDAutomation/app/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner/MyTestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner/MyTestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/myStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/myStepDef.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVD0CrpHFocDbmXiIWgjf9MtNo" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/WinAppDriver-master" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VishwanathChenni\AWS\SampleTestProject\claculatortest\ChromeDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CountWord">
+    <configuration name="CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejava.CountWord" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejava.HashMapPractice" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTablePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejava.HashTablePractice" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejava.Isogram" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejava.RecursiveFib" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountWord" />
+        <item itemvalue="Application.Isogram" />
+        <item itemvalue="Application.RecursiveFib" />
+        <item itemvalue="Application.HashTablePractice" />
+        <item itemvalue="Application.HashMapPractice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c43ba77-a861-43e3-9414-b3ba31c9ed18" name="Default Changelist" comment="" />
+      <created>1601983640287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601983640287</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated mac driver">
+      <created>1601983765095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601983765095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commented selenium code">
+      <created>1601983911199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601983911199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated mac driver" />
+    <MESSAGE value="Commented selenium code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commented selenium code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practicejava/FindVowel.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practicejava/QueuePractice.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practicejava/QueuePractice.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practicejava/Isogram.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

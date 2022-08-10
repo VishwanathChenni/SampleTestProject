@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.806 sec <<< FAILURE! - in TestRunner.TestRunner
+Sanity Test(Sanity Test)  Time elapsed: 8.338 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 85
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LIN55000449', ip: '192.168.0.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00ACD383+3134339]
+	Ordinal0 [0x009BA171+2007409]
+	Ordinal0 [0x0085AEE8+569064]
+	Ordinal0 [0x007E139F+70559]
+	Ordinal0 [0x007DCC63+52323]
+	Ordinal0 [0x00800DFC+200188]
+	Ordinal0 [0x00800C1D+199709]
+	Ordinal0 [0x007FEB0B+191243]
+	Ordinal0 [0x007E2E77+77431]
+	Ordinal0 [0x007E3E3E+81470]
+	Ordinal0 [0x007E3DC9+81353]
+	Ordinal0 [0x009D0CD9+2100441]
+	GetHandleVerifier [0x00C3B75A+1396954]
+	GetHandleVerifier [0x00C3B3D9+1396057]
+	GetHandleVerifier [0x00C47126+1444518]
+	GetHandleVerifier [0x00C3BCE8+1398376]
+	Ordinal0 [0x009C7F51+2064209]
+	Ordinal0 [0x009D22EB+2106091]
+	Ordinal0 [0x009D2411+2106385]
+	Ordinal0 [0x009E49C4+2181572]
+	BaseThreadInitThunk [0x759EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x773B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x773B7A6E+238]
+
+

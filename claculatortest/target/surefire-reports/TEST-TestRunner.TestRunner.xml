@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestRunner.TestRunner" time="8.806" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.4+10-b304.77"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\jbr\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\VishwanathChenni\AWS\SampleTestProject\claculatortest"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o"/>
+    <property name="java.vendor.url" value="https://www.jetbrains.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\VishwanathChenni\AWS\SampleTestProject\claculatortest"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.4+10-b304.77"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\vchenni\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\jbr\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\Program Files\Git\cmd;C:\VishwanathChenni\Softwares\IEDriver;C:\Users\vchenni\AppData\Local\Android\Sdk\platform-tools;C:\Users\vchenni\AppData\Local\Android\Sdk\tools;C:\Users\vchenni\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\vchenni\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Java\jre1.8.0_131\bin;C:\VishwanathChenni\Softwares\Maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;C:\VishwanathChenni\Softwares\SDK;C:\Users\vchenni\AppData\Local\Android\Sdk\tools\bin;C:\Users\vchenni\AppData\Local\Android\Sdk\tools;C:\Users\vchenni\AppData\Local\Android\Sdk\platform-tools;C:\Users\vchenni\AppData\Roaming\npm;;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\vchenni"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="idea.version2019.2.4" value="true"/>
+    <property name="user.name" value="vchenni"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.2.4 test"/>
+    <property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\jbr"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="java.vendor" value="JetBrains s.r.o"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="https://youtrack.jetbrains.com"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Sanity Test" classname="Sanity Test" time="8.338">
+    <error message="session not created: This version of ChromeDriver only supports Chrome version 85&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;LIN55000449&apos;, ip: &apos;192.168.0.178&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.4&apos;&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: Backtrace:&#10;	Ordinal0 [0x00ACD383+3134339]&#10;	Ordinal0 [0x009BA171+2007409]&#10;	Ordinal0 [0x0085AEE8+569064]&#10;	Ordinal0 [0x007E139F+70559]&#10;	Ordinal0 [0x007DCC63+52323]&#10;	Ordinal0 [0x00800DFC+200188]&#10;	Ordinal0 [0x00800C1D+199709]&#10;	Ordinal0 [0x007FEB0B+191243]&#10;	Ordinal0 [0x007E2E77+77431]&#10;	Ordinal0 [0x007E3E3E+81470]&#10;	Ordinal0 [0x007E3DC9+81353]&#10;	Ordinal0 [0x009D0CD9+2100441]&#10;	GetHandleVerifier [0x00C3B75A+1396954]&#10;	GetHandleVerifier [0x00C3B3D9+1396057]&#10;	GetHandleVerifier [0x00C47126+1444518]&#10;	GetHandleVerifier [0x00C3BCE8+1398376]&#10;	Ordinal0 [0x009C7F51+2064209]&#10;	Ordinal0 [0x009D22EB+2106091]&#10;	Ordinal0 [0x009D2411+2106385]&#10;	Ordinal0 [0x009E49C4+2181572]&#10;	BaseThreadInitThunk [0x759EFA29+25]&#10;	RtlGetAppContainerNamedObjectPath [0x773B7A9E+286]&#10;	RtlGetAppContainerNamedObjectPath [0x773B7A6E+238]&#10;" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 85
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LIN55000449', ip: '192.168.0.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00ACD383+3134339]
+	Ordinal0 [0x009BA171+2007409]
+	Ordinal0 [0x0085AEE8+569064]
+	Ordinal0 [0x007E139F+70559]
+	Ordinal0 [0x007DCC63+52323]
+	Ordinal0 [0x00800DFC+200188]
+	Ordinal0 [0x00800C1D+199709]
+	Ordinal0 [0x007FEB0B+191243]
+	Ordinal0 [0x007E2E77+77431]
+	Ordinal0 [0x007E3E3E+81470]
+	Ordinal0 [0x007E3DC9+81353]
+	Ordinal0 [0x009D0CD9+2100441]
+	GetHandleVerifier [0x00C3B75A+1396954]
+	GetHandleVerifier [0x00C3B3D9+1396057]
+	GetHandleVerifier [0x00C47126+1444518]
+	GetHandleVerifier [0x00C3BCE8+1398376]
+	Ordinal0 [0x009C7F51+2064209]
+	Ordinal0 [0x009D22EB+2106091]
+	Ordinal0 [0x009D2411+2106385]
+	Ordinal0 [0x009E49C4+2181572]
+	BaseThreadInitThunk [0x759EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x773B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x773B7A6E+238]
+
+</error>
+    <system-out><![CDATA[
+@Sanity
+Scenario: Sanity Test     &amp#27;[90m# ChromeDriver/Features/SanityTest.feature:3&amp#27;[0m
+Hello World!
+  &amp#27;[31mGiven &amp#27;[0m&amp#27;[31mUser launches URL&amp#27;[0m &amp#27;[90m# stepDefinition.myStepDef.userLaunchesURL()&amp#27;[0m
+      &amp#27;[31morg.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 85
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LIN55000449', ip: '192.168.0.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00ACD383+3134339]
+	Ordinal0 [0x009BA171+2007409]
+	Ordinal0 [0x0085AEE8+569064]
+	Ordinal0 [0x007E139F+70559]
+	Ordinal0 [0x007DCC63+52323]
+	Ordinal0 [0x00800DFC+200188]
+	Ordinal0 [0x00800C1D+199709]
+	Ordinal0 [0x007FEB0B+191243]
+	Ordinal0 [0x007E2E77+77431]
+	Ordinal0 [0x007E3E3E+81470]
+	Ordinal0 [0x007E3DC9+81353]
+	Ordinal0 [0x009D0CD9+2100441]
+	GetHandleVerifier [0x00C3B75A+1396954]
+	GetHandleVerifier [0x00C3B3D9+1396057]
+	GetHandleVerifier [0x00C47126+1444518]
+	GetHandleVerifier [0x00C3BCE8+1398376]
+	Ordinal0 [0x009C7F51+2064209]
+	Ordinal0 [0x009D22EB+2106091]
+	Ordinal0 [0x009D2411+2106385]
+	Ordinal0 [0x009E49C4+2181572]
+	BaseThreadInitThunk [0x759EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x773B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x773B7A6E+238]
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at stepDefinition.myStepDef.userLaunchesURL(myStepDef.java:72)
+	at ?.User launches URL(file:///C:/VishwanathChenni/AWS/SampleTestProject/claculatortest/ChromeDriver/Features/SanityTest.feature:4)
+&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[Aug 10, 2022 6:00:13 PM io.cucumber.junit.Cucumber <init>
+WARNING: By default Cucumber is running in --non-strict mode.
+This default will change to --strict and --non-strict will be removed.
+You can use --strict or @CucumberOptions(strict = true) to suppress this warning
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 2150
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+  </testcase>
+</testsuite>
